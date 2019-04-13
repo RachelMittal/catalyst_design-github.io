@@ -1,2 +1,2 @@
-# catalyst_design-github.io
+# catalyst_design.github.io
 project gallery
